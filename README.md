@@ -26,28 +26,31 @@ Sunstone-PRIME-150-DSA/
 │   └── MoveZeroes.java
 │
 ├── Day-02/
-│   └── ProblemName.java
+│   └── MajorityElement.java
 │
 └── ...
 └── Day-150/
     └── ProblemName.java
 📅 Progress
-Day	Problem	Topic	Difficulty	Status
-1	Move Zeroes	Array, Two Pointer	Easy	✅
-2	—	—	—	⏳
-3	—	—	—	⏳
-...	...	...	...	⏳
-150	—	—	—	⏳
+Day|	Problem No. |	Problem	|   Topic  |  Approach  |	Difficulty	|  Status
+1	LeetCode 283	Move Zeroes,   Array ,   Two Pointer,   	    Easy           ✅
+2	LeetCode 169	Majority Element Array, Boyer-Moore Voting, 	Easy    	   ✅
+3	—	—	—	—	⏳
+4	—	—	—	—	⏳
+5	—	—	—	—	⏳
+...	...	...	...	...	⏳
+150	—	—	—	—	⏳
 🎯 Goal
 Solve 1 problem every day
 Maintain an unbroken 150-day streak
 Improve DSA and problem-solving skills
+Learn different problem-solving techniques
 Prepare for technical interviews and placements
 🔥 Current Streak
 
-Day 1 / 150
+Day 2 / 150
 
-Problems Completed: 1 / 150
+Problems Completed: 2 / 150
 
 One problem a day. One step closer to becoming a better problem solver. 🚀
 
