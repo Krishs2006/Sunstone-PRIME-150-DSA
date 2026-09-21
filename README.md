@@ -35,7 +35,7 @@ Sunstone-PRIME-150-DSA/
 Day|	Problem No. |	Problem	|   Topic  |  Approach  |	Difficulty	|  Status
 1	LeetCode 283	Move Zeroes,   Array ,   Two Pointer,   	    Easy           ✅
 2	LeetCode 169	Majority Element Array, Boyer-Moore Voting, 	Easy    	   ✅
-3	—	—	—	—	⏳
+3   LeetCode 189 | Rotate Array | Array | Reversal Algorithm | Medium |            ✅ |
 4	—	—	—	—	⏳
 5	—	—	—	—	⏳
 ...	...	...	...	...	⏳
@@ -46,11 +46,10 @@ Maintain an unbroken 150-day streak
 Improve DSA and problem-solving skills
 Learn different problem-solving techniques
 Prepare for technical interviews and placements
-🔥 Current Streak
+🔥 Current Streak:
+     Day 3 / 150
 
-Day 2 / 150
-
-Problems Completed: 2 / 150
+Problems Completed: 3 / 150
 
 One problem a day. One step closer to becoming a better problem solver. 🚀
 
