@@ -32,11 +32,11 @@ Sunstone-PRIME-150-DSA/
 └── Day-150/
     └── ProblemName.java
 📅 Progress
-Day|	Problem No. |	Problem	|   Topic  |  Approach  |	Difficulty	|  Status
+|Day|	Problem No. |	Problem	|   Topic  |  Approach  |	Difficulty	|    Status      |
 1	LeetCode 283	Move Zeroes,   Array ,   Two Pointer,   	    Easy           ✅
 2	LeetCode 169	Majority Element Array, Boyer-Moore Voting, 	Easy    	   ✅
 3   LeetCode 189 | Rotate Array | Array | Reversal Algorithm | Medium |            ✅ |
-4	—	—	—	—	⏳
+4   LeetCode 31 | Next Permutation | Array | Next Permutation Algorithm | Medium | ✅ |
 5	—	—	—	—	⏳
 ...	...	...	...	...	⏳
 150	—	—	—	—	⏳
@@ -47,9 +47,9 @@ Improve DSA and problem-solving skills
 Learn different problem-solving techniques
 Prepare for technical interviews and placements
 🔥 Current Streak:
-     Day 3 / 150
+     Day 4 / 150
 
-Problems Completed: 3 / 150
+Problems Completed: 4 / 150
 
 One problem a day. One step closer to becoming a better problem solver. 🚀
 
