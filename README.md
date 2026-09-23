@@ -37,7 +37,7 @@ Sunstone-PRIME-150-DSA/
 2	LeetCode 169	Majority Element Array, Boyer-Moore Voting, 	Easy    	   ✅
 3   LeetCode 189 | Rotate Array | Array | Reversal Algorithm | Medium |            ✅ |
 4   LeetCode 31 | Next Permutation | Array | Next Permutation Algorithm | Medium | ✅ |
-5	—	—	—	—	⏳
+5 LeetCode 41 | First Missing Positive | Array | Negative Marking    | Hard |      ✅ |
 ...	...	...	...	...	⏳
 150	—	—	—	—	⏳
 🎯 Goal
@@ -47,9 +47,9 @@ Improve DSA and problem-solving skills
 Learn different problem-solving techniques
 Prepare for technical interviews and placements
 🔥 Current Streak:
-     Day 4 / 150
+     Day 5 / 150
 
-Problems Completed: 4 / 150
+Problems Completed: 5 / 150
 
 One problem a day. One step closer to becoming a better problem solver. 🚀
 
