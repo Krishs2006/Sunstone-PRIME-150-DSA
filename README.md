@@ -38,6 +38,7 @@ Sunstone-PRIME-150-DSA/
 3   LeetCode 189 | Rotate Array | Array | Reversal Algorithm | Medium |            ✅ |
 4   LeetCode 31 | Next Permutation | Array | Next Permutation Algorithm | Medium | ✅ |
 5 LeetCode 41 | First Missing Positive | Array | Negative Marking    | Hard |      ✅ |
+6 LeetCode 13 | Roman to Integer | String | Reverse Traversal | Easy | ✅ |
 ...	...	...	...	...	⏳
 150	—	—	—	—	⏳
 🎯 Goal
@@ -47,9 +48,9 @@ Improve DSA and problem-solving skills
 Learn different problem-solving techniques
 Prepare for technical interviews and placements
 🔥 Current Streak:
-     Day 5 / 150
+     Day 6 / 150
 
-Problems Completed: 5 / 150
+Problems Completed: 6 / 150
 
 One problem a day. One step closer to becoming a better problem solver. 🚀
 
