@@ -2,6 +2,16 @@
 import java.util.*;
 
 public class FirstMissingPositive {
+    /*
+ * Day 5 - First Missing Positive
+ * LeetCode 41
+ *
+ * Approach:
+ * Use the array itself to mark which positive numbers are present.
+ *
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ */
 
     public static int firstMissingPositive(int[] nums) {
         int n = nums.length;
